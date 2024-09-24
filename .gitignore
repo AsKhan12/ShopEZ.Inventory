@@ -399,3 +399,4 @@ FodyWeavers.xsd
 .vscode/launch.json
 .vscode/tasks.json
 ShopEZ.Inventory.API/Properties/launchSettings.json
+ShopEZ.Inventory.API/appsettings.Development.json
